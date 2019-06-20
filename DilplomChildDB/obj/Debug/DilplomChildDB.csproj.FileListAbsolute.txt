@@ -1,0 +1,22 @@
+c:\users\homepc\documents\visual studio 2015\Projects\DilplomChildDB\DilplomChildDB\bin\Debug\DilplomChildDB.exe.config
+c:\users\homepc\documents\visual studio 2015\Projects\DilplomChildDB\DilplomChildDB\bin\Debug\DilplomChildDB.exe
+c:\users\homepc\documents\visual studio 2015\Projects\DilplomChildDB\DilplomChildDB\bin\Debug\DilplomChildDB.pdb
+c:\users\homepc\documents\visual studio 2015\Projects\DilplomChildDB\DilplomChildDB\obj\Debug\DilplomChildDB.csprojResolveAssemblyReference.cache
+c:\users\homepc\documents\visual studio 2015\Projects\DilplomChildDB\DilplomChildDB\obj\Debug\DilplomChildDB.Form1.resources
+c:\users\homepc\documents\visual studio 2015\Projects\DilplomChildDB\DilplomChildDB\obj\Debug\DilplomChildDB.Properties.Resources.resources
+c:\users\homepc\documents\visual studio 2015\Projects\DilplomChildDB\DilplomChildDB\obj\Debug\DilplomChildDB.csproj.GenerateResource.Cache
+c:\users\homepc\documents\visual studio 2015\Projects\DilplomChildDB\DilplomChildDB\obj\Debug\DilplomChildDB.exe
+c:\users\homepc\documents\visual studio 2015\Projects\DilplomChildDB\DilplomChildDB\obj\Debug\DilplomChildDB.pdb
+c:\users\homepc\documents\visual studio 2015\Projects\DilplomChildDB\DilplomChildDB\bin\Debug\System.Data.SQLite.pdb
+c:\users\homepc\documents\visual studio 2015\Projects\DilplomChildDB\DilplomChildDB\bin\Debug\System.Data.SQLite.xml
+C:\Users\node12\Desktop\DilplomChildDB\DilplomChildDB\bin\Debug\DilplomChildDB.exe.config
+C:\Users\node12\Desktop\DilplomChildDB\DilplomChildDB\bin\Debug\DilplomChildDB.exe
+C:\Users\node12\Desktop\DilplomChildDB\DilplomChildDB\bin\Debug\DilplomChildDB.pdb
+C:\Users\node12\Desktop\DilplomChildDB\DilplomChildDB\bin\Debug\System.Data.SQLite.pdb
+C:\Users\node12\Desktop\DilplomChildDB\DilplomChildDB\bin\Debug\System.Data.SQLite.xml
+C:\Users\node12\Desktop\DilplomChildDB\DilplomChildDB\obj\Debug\DilplomChildDB.csprojResolveAssemblyReference.cache
+C:\Users\node12\Desktop\DilplomChildDB\DilplomChildDB\obj\Debug\DilplomChildDB.Form1.resources
+C:\Users\node12\Desktop\DilplomChildDB\DilplomChildDB\obj\Debug\DilplomChildDB.Properties.Resources.resources
+C:\Users\node12\Desktop\DilplomChildDB\DilplomChildDB\obj\Debug\DilplomChildDB.csproj.GenerateResource.Cache
+C:\Users\node12\Desktop\DilplomChildDB\DilplomChildDB\obj\Debug\DilplomChildDB.exe
+C:\Users\node12\Desktop\DilplomChildDB\DilplomChildDB\obj\Debug\DilplomChildDB.pdb
